@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\bin\Debug\net7.0\TipDönüşümleri.exe
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\bin\Debug\net7.0\TipDönüşümleri.deps.json
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\bin\Debug\net7.0\TipDönüşümleri.runtimeconfig.json
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\bin\Debug\net7.0\TipDönüşümleri.dll
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\bin\Debug\net7.0\TipDönüşümleri.pdb
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\TipDönüşümleri.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\TipDönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\TipDönüşümleri.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\TipDönüşümleri.AssemblyInfo.cs
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\TipDönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\TipDönüşümleri.dll
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\refint\TipDönüşümleri.dll
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\TipDönüşümleri.pdb
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\TipDönüşümleri.genruntimeconfig.cache
+C:\Users\serhat\source\repos\TipDönüşümleri\TipDönüşümleri\obj\Debug\net7.0\ref\TipDönüşümleri.dll
