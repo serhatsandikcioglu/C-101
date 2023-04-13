@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\Operatorler\Operatorler\bin\Debug\net7.0\Operatorler.exe
+C:\Users\serhat\source\repos\Operatorler\Operatorler\bin\Debug\net7.0\Operatorler.deps.json
+C:\Users\serhat\source\repos\Operatorler\Operatorler\bin\Debug\net7.0\Operatorler.runtimeconfig.json
+C:\Users\serhat\source\repos\Operatorler\Operatorler\bin\Debug\net7.0\Operatorler.dll
+C:\Users\serhat\source\repos\Operatorler\Operatorler\bin\Debug\net7.0\Operatorler.pdb
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\Operatorler.AssemblyInfo.cs
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\Operatorler.dll
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\refint\Operatorler.dll
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\Operatorler.pdb
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\Operatorler.genruntimeconfig.cache
+C:\Users\serhat\source\repos\Operatorler\Operatorler\obj\Debug\net7.0\ref\Operatorler.dll
