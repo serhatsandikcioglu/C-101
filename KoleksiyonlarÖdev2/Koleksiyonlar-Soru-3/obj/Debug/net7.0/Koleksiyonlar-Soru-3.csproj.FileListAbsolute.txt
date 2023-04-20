@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\bin\Debug\net7.0\Koleksiyonlar-Soru-3.exe
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\bin\Debug\net7.0\Koleksiyonlar-Soru-3.deps.json
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\bin\Debug\net7.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\bin\Debug\net7.0\Koleksiyonlar-Soru-3.dll
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\bin\Debug\net7.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\Koleksiyonlar-Soru-3.dll
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\refint\Koleksiyonlar-Soru-3.dll
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
+C:\Users\serhat\source\repos\KoleksiyonlarÖdev2\Koleksiyonlar-Soru-3\obj\Debug\net7.0\ref\Koleksiyonlar-Soru-3.dll
