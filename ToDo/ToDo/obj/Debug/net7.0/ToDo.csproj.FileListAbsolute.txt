@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\ToDo\ToDo\bin\Debug\net7.0\ToDo.exe
+C:\Users\serhat\source\repos\ToDo\ToDo\bin\Debug\net7.0\ToDo.deps.json
+C:\Users\serhat\source\repos\ToDo\ToDo\bin\Debug\net7.0\ToDo.runtimeconfig.json
+C:\Users\serhat\source\repos\ToDo\ToDo\bin\Debug\net7.0\ToDo.dll
+C:\Users\serhat\source\repos\ToDo\ToDo\bin\Debug\net7.0\ToDo.pdb
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ToDo.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ToDo.AssemblyInfo.cs
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ToDo.dll
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\refint\ToDo.dll
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ToDo.pdb
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ToDo.genruntimeconfig.cache
+C:\Users\serhat\source\repos\ToDo\ToDo\obj\Debug\net7.0\ref\ToDo.dll
