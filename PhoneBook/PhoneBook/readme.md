@@ -13,27 +13,28 @@ Açıklama:
 
 
 
-Başlangıç olarak 5 kişinin numarasını varsayılan olarak ekleyiniz.
+Başlangıç olarak 5 kişinin numarasını varsayılan olarak eklenir.
 
 
 Uygulama ilk başladığında kullanıcıya yapmak istediği işlem seçtirilir.
 
 
-  Lütfen yapmak istediğiniz işlemi seçiniz :) 
-  *******************************************
-  (1) Yeni Numara Kaydetmek
-  (2) Varolan Numarayı Silmek
-  (3) Varolan Numarayı Güncelleme
-  (4) Rehberi Listelemek
-  (5) Rehberde Arama Yapmak﻿
+  Lütfen yapmak istediğiniz işlemi seçiniz :  
+
+  (1) Yeni Numara Kaydetmek  
+  (2) Varolan Numarayı Silmek  
+  (3) Varolan Numarayı Güncelleme  
+  (4) Rehberi Listelemek  
+  (5) Rehberde Arama Yapmak  
 
 
-(1) Yeni Numara Kaydetmek
+(1) Yeni Numara Kaydetmek :
 
 
- Lütfen isim giriniz             : 
- Lütfen soyisim giriniz          :
- Lütfen telefon numarası giriniz :
+ Lütfen isim giriniz             :   
+ Lütfen soyisim giriniz          :  
+ Lütfen telefon numarası giriniz :  
+
 (2) Var olan Numarayı Silmek
 
 
@@ -48,17 +49,17 @@ Kullanıcıdan alınan girdi doğrultusunda rehberde bir kişi bulunamazsa:
 
 
 
-  Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.
-  * Silmeyi sonlandırmak için : (1)
-  * Yeniden denemek için      : (2)
+  Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.  
+  * Silmeyi sonlandırmak için : (1)  
+  * Yeniden denemek için      : (2)  
 
 
 Rehberde uygun veri bulunursa:
 
 
 
-  {} isimli kişi rehberden silinmek üzere, onaylıyor musunuz ?(y/n)
-Not: Rehber uygun kriterlere uygun birden fazla kişi bulunursa ilk bulunan silinmeli.
+  {} isimli kişi rehberden silinmek üzere, onaylıyor musunuz ?(y/n)  
+Not: Rehber uygun kriterlere uygun birden fazla kişi bulunursa ilk bulunan silinir.
 
 
 (3) Varolan Numarayı Güncelleme
@@ -80,7 +81,7 @@ Rehberde uygun veri bulunursa güncelleme işlemi gerçekleştirilir.
 
 
 
-Not: Rehber uygun kriterlere uygun birden fazla kişi bulunursa ilk bulunan silinmeli.
+Not: Rehber uygun kriterlere uygun birden fazla kişi bulunursa ilk bulunan güncellenir.
 
 
 (4) Rehberi Listelemek
@@ -90,26 +91,21 @@ Tüm rehber aşağıdaki formatta console'a listelenir.
 
 
 
-  Telefon Rehberi
-  **********************************************
-  isim: {}
-  Soyisim: {}
-  Telefon Numarası: {}
-  - 
-  isim: {}
-  Soyisim: {}
-  Telefon Numarası: {}
-  .
-  .
+  Telefon Rehberi  
+  isim: {}  
+  Soyisim: {}  
+  Telefon Numarası: {}  
+  "----------"  
+  isim: {}  
+  Soyisim: {}  
+  Telefon Numarası: {}   
 
-
-(5) Rehberde Arama Yapmak
+(5) Rehberde Arama Yapmak:  
 
 
  Arama yapmak istediğiniz tipi seçiniz.
- **********************************************
  
- İsim veya soyisime göre arama yapmak için: (1)
+ İsim veya soyisime göre arama yapmak için: (1)  
  Telefon numarasına göre arama yapmak için: (2)
 
 
@@ -117,17 +113,11 @@ Arama sonucuna göre bulunan veriler aşağıdaki formatta gösterilmeli.
 
 
 
- Arama Sonuçlarınız:
- **********************************************
- isim: {}
- Soyisim: {}
- Telefon Numarası: {}
- - 
- isim: {}
- Soyisim: {}
- Telefon Numarası: {}
- .
- .
-
-
-** Her bir feature ayrı class/method kullanarak yapılmalıdır. Mümkün olduğunca sorumlulukları parçalanmalı ve kod okunabilir olmalıdır.
+ Arama Sonuçlarınız:  
+ isim: {}  
+ Soyisim: {}  
+ Telefon Numarası: {}  
+ "---------"   
+ isim: {}  
+ Soyisim: {}  
+ Telefon Numarası: {}  
